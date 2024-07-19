@@ -1,0 +1,12 @@
+*.pyc
+*.log
+__pycache__
+poetry.lock
+templates
+asgi.py
+wsgi.py
+admin.py
+apps.py
+tests.py
+manage.py
+__init__.py
